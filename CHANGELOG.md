@@ -22,3 +22,6 @@
 
 ### 0.0.1
 - Extensão criada (BETA)
+
+### 0.0.2
+- Erros do README.md (Resolvidos)
