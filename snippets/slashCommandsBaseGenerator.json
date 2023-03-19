@@ -1,0 +1,28 @@
+{
+    "Discord V14 Template (BASE)": {
+        "prefix": "base",
+        "body": [
+            "const Discord = require('discord.js');",
+            "",
+            "module.exports = {",
+            "    data: {",
+            "        name: \"\",",
+            "        description: \"\",",
+            "        options: [",
+            "            {",
+            "                name: \"\",",
+            "                type: 3,",
+            "                description: \"\",",
+            "                required: true",
+            "            }",
+            "        ]",
+            "    },",
+            "",
+            "    run: async (interaction) => {",
+            "",
+            "    },",
+            "};"
+        ],
+        "description": "Create a Slash Commands Base V14 Template."
+    }
+}

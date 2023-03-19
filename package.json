@@ -1,0 +1,44 @@
+{
+  "name": "discord-v14-snippets",
+  "displayName": "Discord V14 Snippets",
+  "keywords": [
+    "discord",
+    "snippets",
+    "discord snippets"
+  ],
+  "description": "Optimize your work using Discord V14 Snippets.",
+  "version": "0.0.1",
+  "publisher": "AlphaJR",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlphaJR36/djs14-snippets"
+  },
+  "author": {
+    "name": "Sr. AlphaJR.",
+    "email": "alphajrdev@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlphaJR36/djs14-snippets/issues"
+  },
+  "homepage": "https://github.com/AlphaJR36/djs14-snippets#readme",
+  "icon": "assets/images/logo.png",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/slashCommandsBaseGenerator.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/embedBaseGenerator.json"
+      }
+    ]
+  }
+}
