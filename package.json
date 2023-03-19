@@ -1,6 +1,6 @@
 {
-  "name": "discord-v14-snippets",
-  "displayName": "Discord V14 Snippets",
+  "name": "djs14-snippets",
+  "displayName": "DiscordJS V14 Snippets",
   "keywords": [
     "discord",
     "snippets",
@@ -34,10 +34,6 @@
       {
         "language": "javascript",
         "path": "./snippets/slashCommandsBaseGenerator.json"
-      },
-      {
-        "language": "javascript",
-        "path": "./snippets/embedBaseGenerator.json"
       }
     ]
   }
