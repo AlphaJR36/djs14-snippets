@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://azurestore.site" >
-    <img src="https://raw.githubusercontent.com/AlphaJR36/djs14-snippets/main/assets/images/azurestore.png" alt="Logo">
+    <img src="https://raw.githubusercontent.com/AlphaJR36/djs14-snippets/master/assets/images/azurestore.png" alt="Logo">
   </a>
 
   <h3 align="center">Discord V14 Snippets</h3>
