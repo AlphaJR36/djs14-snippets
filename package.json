@@ -1,12 +1,12 @@
 {
   "name": "djs14-snippets",
-  "displayName": "DiscordJS V14 Snippets",
+  "displayName": "Discord.JS V14 Snippets",
   "keywords": [
     "discord",
     "snippets",
     "discord snippets"
   ],
-  "description": "Optimize your work using Discord V14 Snippets.",
+  "description": "Work more productively with the Discord.JS V14 Snippets extension.",
   "version": "0.0.1",
   "publisher": "AlphaJR",
   "repository": {
