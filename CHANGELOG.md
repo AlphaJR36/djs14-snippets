@@ -34,3 +34,6 @@
 
 ### 0.0.5
 - Erros do CHANGELOG.md (Resolvidos)
+
+### 0.0.6
+- Formatação do eventsBaseGenerator (Resolvido)

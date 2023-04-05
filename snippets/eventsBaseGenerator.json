@@ -3,7 +3,8 @@
         "prefix": "baseEvents",
         "body": [
             "module.exports = {",
-            "   name: \"\"",
+            "   name: \"\",",
+            "",
             "   run: async () => {",
             "",
             "    },",
