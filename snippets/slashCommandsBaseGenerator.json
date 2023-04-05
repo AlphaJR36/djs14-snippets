@@ -1,6 +1,6 @@
 {
-    "Discord V14 Template (BASE)": {
-        "prefix": "base",
+    "Discord V14 Commands (BASE)": {
+        "prefix": "baseCommands",
         "body": [
             "const Discord = require('discord.js');",
             "",
@@ -18,7 +18,7 @@
             "        ]",
             "    },",
             "",
-            "    run: async (interaction) => {",
+            "   run: async (interaction) => {",
             "",
             "    },",
             "};"

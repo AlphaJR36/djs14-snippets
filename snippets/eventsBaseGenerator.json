@@ -1,0 +1,14 @@
+{
+    "Discord V14 Events (BASE)": {
+        "prefix": "baseEvents",
+        "body": [
+            "module.exports = {",
+            "   name: \"\"",
+            "   run: async () => {",
+            "",
+            "    },",
+            "};"
+        ],
+        "description": "Create a Events Base V14 Template."
+    }
+}
