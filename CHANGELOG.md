@@ -27,4 +27,4 @@
 - Erros do README.md (Resolvidos)
 
 ### 0.0.3
-- Adicionada base 
+- Adicionada base Events
