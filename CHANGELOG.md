@@ -28,3 +28,6 @@
 
 ### 0.0.3
 - Adicionada base Events
+
+### 0.0.4
+- Erros do eventsBaseGenerator (Resolvidos)

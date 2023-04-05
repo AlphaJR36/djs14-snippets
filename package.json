@@ -7,7 +7,7 @@
     "discord snippets"
   ],
   "description": "Work more productively with the Discord.JS V14 Snippets extension.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "AlphaJR",
   "repository": {
     "type": "git",
@@ -34,6 +34,10 @@
       {
         "language": "javascript",
         "path": "./snippets/slashCommandsBaseGenerator.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/eventsBaseGenerator.json"
       }
     ]
   }
